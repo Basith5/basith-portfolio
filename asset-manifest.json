@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/basith-portfolio/static/css/main.9d050fe1.css",
+    "main.js": "/basith-portfolio/static/js/main.6a036633.js",
+    "static/js/787.1ed0c42c.chunk.js": "/basith-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/mysql.png": "/basith-portfolio/static/media/mysql.67646295cd91e7a3920e.png",
+    "static/media/node.png": "/basith-portfolio/static/media/node.b98cb1081b667e4385a1.png",
+    "static/media/instagram.png": "/basith-portfolio/static/media/instagram.79535458a8a6d88f81d4.png",
+    "static/media/linkedin.png": "/basith-portfolio/static/media/linkedin.f249b38224ca41a0b909.png",
+    "static/media/prisma.svg": "/basith-portfolio/static/media/prisma.1c35507bd4734196c29f749a708882f7.svg",
+    "static/media/react.svg": "/basith-portfolio/static/media/react.287ed079d67ebccd2b751239d6ad0a4f.svg",
+    "static/media/python-seeklogo.com.svg": "/basith-portfolio/static/media/python-seeklogo.com.6a8b2999db46fb931134216e8fdfdb2c.svg",
+    "static/media/blender-1.svg": "/basith-portfolio/static/media/blender-1.c1d494afb707eecdd59c8370737990d1.svg",
+    "index.html": "/basith-portfolio/index.html",
+    "static/media/three-js-seeklogo.com.svg": "/basith-portfolio/static/media/three-js-seeklogo.com.c3b0b390f7376d896a181894a13885b3.svg",
+    "main.9d050fe1.css.map": "/basith-portfolio/static/css/main.9d050fe1.css.map",
+    "main.6a036633.js.map": "/basith-portfolio/static/js/main.6a036633.js.map",
+    "787.1ed0c42c.chunk.js.map": "/basith-portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d050fe1.css",
+    "static/js/main.6a036633.js"
+  ]
+}
