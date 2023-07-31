@@ -1,0 +1,69 @@
+ @import url('https://fonts.googleapis.com/css2?family=Borel&family=Caveat&family=Indie+Flower&family=Lumanosimo&display=swap');
+
+
+/* Add the following CSS code in your style file (e.g., App.css) */
+@keyframes glowAnimation {
+    0% {
+      color: white;
+      text-shadow: 0 0 5px rgba(255, 0, 0, 0.7);
+    }
+    50% {
+      color: red;
+      text-shadow: 0 0 15px rgba(255, 0, 0, 0.9);
+    }
+    100% {
+      color: white;
+      text-shadow: 0 0 5px rgba(255, 0, 0, 0.7);
+    }
+  }
+  
+  /* Optional: You can add this class to give a smooth transition */
+  .glow-animation {
+    animation: glowAnimation 2s ease-in-out infinite;
+  }
+
+  /* NavBar.css */
+@keyframes scaleUpAnimation {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+ul li {
+  transition: transform 0.3s ease;
+}
+
+ul li:hover {
+  animation: scaleUpAnimation 0.5s ease-in-out;
+}
+
+.fonty{
+    /* font-family: 'Borel', cursive; */
+    /* font-family: 'Lumanosimo', cursive; */
+    /* font-family: 'Caveat', cursive; */
+    font-family: 'Indie Flower', cursive;
+}
+
+@keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slide-up {
+  from { transform: translateY(100%); }
+  to { transform: translateY(0); }
+}
+
+.animate-fade-in {
+  animation: fade-in 1s ease;
+}
+
+.animate-slide-up {
+  animation: slide-up 0.8s ease;
+}
